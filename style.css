@@ -120,3 +120,11 @@ section:nth-child(3) {
     color: white;
     font-size: 18px;
 }
+
+.finalans{
+    color:black;
+    text-align:center;
+    font-size:28px;
+    margin-top:50px;
+    line-height:2;
+}
